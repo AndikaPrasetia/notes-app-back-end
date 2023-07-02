@@ -22,7 +22,7 @@ Plugin notes ini akan bertanggung jawab untuk menangani setiap permintaan yang m
 
 ## services Folder
 
-Folder services akan menampung segala fungsi yang digunakan untuk menulis, mendapatkan, mengubah, atau menghapus sebuah resource. terdapat satu service 'NotesService' di dalamnya. 
+Folder services akan menampung segala fungsi yang digunakan untuk menulis, mendapatkan, mengubah, atau menghapus (CRUD) sebuah resource. terdapat satu service 'NotesService' di dalamnya. 
 
 Berkas NotesService.js bertanggung jawab untuk mengelola resource notes yang disimpan pada memory (array).
 
